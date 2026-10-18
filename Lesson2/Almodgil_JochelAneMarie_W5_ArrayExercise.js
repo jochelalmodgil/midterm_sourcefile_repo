@@ -1,3 +1,5 @@
+// This program analyzes student scores using arrays.
+
 'use strict';
 
 console.log('STUDENT SCORE ARRAY ANALYZER');
