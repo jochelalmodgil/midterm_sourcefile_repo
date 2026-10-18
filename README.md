@@ -1,28 +1,56 @@
-\# Midterm Source Files Repository
+### \# Midterm Source Files Repository
 
+### 
 
+### Welcome to my \*\*Midterm Source Files Repository\*\*! This repository contains the JavaScript programs I developed and the lecture examples provided by our instructor.
 
-This repository contains my JavaScript source codes and lecture examples for the midterm activity.
+### 
 
+### \## Repository Contents
 
+### 
 
-\## Repository Contents
+### \### Lesson 1 — Student Grade Analyzer
 
+### \- Student Grade Analyzer (Part 1)
 
+### \- Student Grade Analyzer V2 (Part 2)
 
-\- \*\*Lesson1\*\* – Student Grade Analyzer Part 1 and Part 2
+### 
 
-\- \*\*Lesson2\*\* – Student Score Array Exercise
+### \### Lesson 2 — Array Exercise
 
-\- \*\*Lesson3\*\* – CC104 Week 6 Exercise
+### \- Student Score Array Exercise
 
-\- \*\*Lecture Examples\*\* – JavaScript examples provided by our instructor
+### 
 
+### \### Lesson 3 — CC104 Exercise
 
+### \- Week 6 Exercise
 
-\## Purpose
+### 
 
+### \### Lecture Examples
 
+### \- Lesson 1 JavaScript Examples
 
-This repository is created to organize and store my JavaScript source files and demonstrate the basic Git and GitHub commands learned in class.
+### \- Lesson 3 Arrays Demo
+
+### \- Lesson 4 Linked List Demo
+
+### 
+
+### \## Purpose
+
+### 
+
+### This repository organizes my JavaScript source files for the midterm activity and demonstrates the basic Git and GitHub commands learned in class.
+
+### 
+
+### \---
+
+### 
+
+### \*\*Course Activity:\*\* Midterm Git and GitHub Activity
 
